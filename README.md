@@ -1,5 +1,8 @@
 # pyfrbus
-A copy of the FRB/US Python code with some notes
+
+A copy of the FRB/US Python code with some notes.
+
+Tested on MacOS 14.7.6 (23H626).
 
 ## Installing dependencies
 

@@ -1,6 +1,6 @@
 # pyfrbus
 
-A copy of the FRB/US Python code with some notes.
+A copy of the [FRB/US Python](https://www.federalreserve.gov/econres/us-models-python.htm) with some installation notes.
 
 Tested on MacOS 14.7.6 (23H626).
 
